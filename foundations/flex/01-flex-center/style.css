@@ -3,7 +3,13 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
-}
+  
+  /*the change */
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  
+  }
 
 .box {
   background: palevioletred;
